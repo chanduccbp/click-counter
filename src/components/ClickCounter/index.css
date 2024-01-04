@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #2d3a35;
+}
+
+p {
+  color: #2d3a35;
+}
+
+.butt {
+  background-color: #007bff;
+  color: #f1f5f8;
+  border-radius: 5px;
+  border-style: none;
+}
+
+.counter {
+  color: #c20a72;
+}
